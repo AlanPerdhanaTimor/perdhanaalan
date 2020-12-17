@@ -1,12 +1,12 @@
 [
 	{
 		"attributes": {
-			"FID": 15,
-			"Kode_Provi": 35,
-			"Provinsi": "Jawa Timur",
-			"Kasus_Posi":72979,
-      "Kasus_Semb":62859,
-      "Kasus_Meni":5055
+			"FID": 11,
+			"Kode_Provi": 31,
+			"Provinsi": "DKI Jakarta",
+			"Kasus_Posi": 72979,
+			"Kasus_Semb": 62859,
+			"Kasus_Meni": 5055
 		}
 	}
 ]	
